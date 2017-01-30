@@ -1,0 +1,14 @@
+---
+# Custom overrides of default theme
+---
+
+table.table {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+    td, th {
+        border: 1px solid #999;
+        padding: 0.8em;
+        text-align: left;
+    }
+}
