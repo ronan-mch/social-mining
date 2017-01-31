@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to Social Mining. I'm going to use this blog as a brain dump for my research into Text Mining for the Social Sciences. In general, I will be interested in themes such as Text Mining, Natural Language Processing, theories of social structure and social communication etc.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This blog is intended primarily for my own use so don't expect an expert level of analysis: I will be writing about subjects as I learn them in order to help me learn them and the level will reflect this.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+If you're still here after that disclaimer please feel free to wander around. Any questions or comments can be directed at my email address.
